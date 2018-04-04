@@ -1,10 +1,14 @@
 {
         "session": {
-                "userid": "1337user",
-                "token": "hellotoken"
+                "new": {
+                        "userid": "1337user",
+                        "token": "hellotoken"
+                }
         },
         "users": {
-                "email": "leetuser@gmail.com",
-                "avatar_url": "https://s.inyourpocket.com/gallery/7137.jpg"
+                "1337user": {
+                        "email": "leetuser@gmail.com",
+                        "avatar_url": "https://s.inyourpocket.com/gallery/7137.jpg"
+                }
         }
 }
