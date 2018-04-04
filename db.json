@@ -4,7 +4,7 @@
 		"token": "hellotoken"
 	},
 	"users/1337user": {
-    		"email": "leetuser@gmail.com"
+    		"email": "leetuser@gmail.com",
 		"avatar_url": "https://s.inyourpocket.com/gallery/7137.jpg"	
 	}
 }
